@@ -42,6 +42,7 @@ $form->id('my-form');
              <?php echo $form->submit()->text('Submit')->lf(); ?>
            
             </div>
+            echo 'hello';
     <?php echo $form->end(); ?>
 </body>
 </html>
