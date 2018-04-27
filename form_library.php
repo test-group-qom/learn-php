@@ -74,5 +74,6 @@ $form->id('my-form1');
             </div>
             echo 'hiii';
     <?php echo $form->end(); ?>
+    echo 'hi';
 </body>
 </html>
